@@ -87,7 +87,7 @@ textarea {
 /*
   Others
 */
-.container {
+.container_lp {
   text-align: center;
   border-radius: 20px;
   width: 60%;
@@ -102,13 +102,13 @@ textarea {
 }
 
 /* Create two equal columns that floats next to each other */
-.row {
+.row_lp {
   width: 40%;
   display: flex;
   padding: 30px;
 }
 
-.column {
+.column_lp {
   flex: 1;
 
 }
